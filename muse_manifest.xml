@@ -1,0 +1,50 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_a-master.css" crc="4235333751" ref="members:index:forums:event-photos:about-us:calendar:join-us"/>
+    <file name="members.css" crc="3758122758" ref="members"/>
+    <file name="index.css" crc="4054061505" ref="index"/>
+    <file name="forums.css" crc="178640534" ref="forums"/>
+    <file name="event-photos.css" crc="4156248328" ref="event-photos"/>
+    <file name="about-us.css" crc="413205647" ref="about-us"/>
+    <file name="calendar.css" crc="354439868" ref="calendar"/>
+    <file name="join-us.css" crc="433123184" ref="join-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="61a9c5c6bbe94c7eae579670848eb6b9.jpg" crc="4007767289" mt="1389385688000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:forums:calendar:join-us:members:about-us:event-photos"/>
+    <file name="museutils.js" crc="3865766194" ref="index:forums:calendar:join-us:members:about-us:event-photos"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:forums:calendar:join-us:members:about-us:event-photos"/>
+    <file name="webpro.js" crc="3903299128" ref="index:join-us:members:about-us:event-photos"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:join-us"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:join-us"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:join-us"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:forums:calendar:join-us:members:about-us:event-photos"/>
+    <file name="form_check.php" crc="3931498385" ref="join-us"/>
+    <file name="form_throttle.php" crc="4211444717" ref="join-us"/>
+    <file name="form-u374.php" crc="4086105760" ref="join-us"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="members:about-us:event-photos"/>
+  </folder>
+  <folder name="images">
+    <file name="acm-banner-bg.png" crc="4290131747" ref="index:forums:calendar:join-us:members:about-us:event-photos"/>
+    <file name="u5254-4.png" crc="3992809494" ref="index:forums:calendar:join-us:members:about-us:event-photos"/>
+    <file name="u396-17.png" crc="236349253" ref="join-us"/>
+    <file name="u396-17-r.png" crc="401733888" ref="join-us"/>
+    <file name="u396-17-m.png" crc="345933530" ref="join-us"/>
+    <file name="u396-17-fs.png" crc="3869785650" ref="join-us"/>
+    <file name="bigflower146x98.jpg" crc="66846780" ref="about-us"/>
+    <file name="bigflower186x125.jpg" crc="4069496788" ref="about-us"/>
+    <file name="leaves.jpg" crc="287459782" ref="about-us"/>
+    <file name="smallflower.jpg" crc="3907111206" ref="event-photos"/>
+    <file name="leaves133x89.jpg" crc="249778734" ref="event-photos"/>
+  </folder>
+  <file name="index.html" crc="451014077" mt="1389390951134" redirect="true"/>
+  <file name="forums.html" crc="442574493" mt="1389386737387" redirect="true"/>
+  <file name="calendar.html" crc="295444706" mt="1389390970965" redirect="true"/>
+  <file name="join-us.html" crc="4187573467" mt="1389391441836" redirect="true"/>
+  <file name="members.html" crc="161996130" mt="1389391059825" redirect="true"/>
+  <file name="about-us.html" crc="527176170" mt="1389391791873" redirect="true"/>
+  <file name="event-photos.html" crc="4162156166" mt="1389391335063" redirect="true"/>
+</manifest>
